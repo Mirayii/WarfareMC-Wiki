@@ -9,3 +9,11 @@ Na Spawnu najdi NPC Enchanter a u něj můžeš za Money zakoupit knížky s ur�
 
 # Riskování
 Každým aplikováním Custom Enchantu můžeš riskovat to, že se item rozbije či se Enchant neaplikuje, od toho slouží Dusty, které také nalezneš u Enchantera. Každý ten Dust redukuje či ochraňuje item, aby se s ním nic nestalo.
+
+# Revize
+## Autoři
+Základní článek: Yusarii
+Úpravy: Nikdo
+
+## Poslední revize
+Poslední revize článku byla provedena 23.12.2018 v 13:13
