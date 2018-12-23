@@ -36,3 +36,11 @@ Zobrazí se ti menu se všemi možnými vlajkami
 ### Vlajky manipulování určitého hráče v Residenci
 Stůj v residenci a napiš /res pset (hráč)
 Zobrazí se ti menu se všemi možnými vlajkami
+
+# Revize
+## Autoři
+Základní článek:Yusarii
+Úpravy: Nikdo
+
+## Poslední revize
+Poslední revize článku byla provedena 23.12.2018 v 13:14
