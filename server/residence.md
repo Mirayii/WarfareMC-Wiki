@@ -39,7 +39,7 @@ Zobrazí se ti menu se všemi možnými vlajkami
 
 # Revize
 ## Autoři
-Základní článek:Yusarii
+Základní článek: Yusarii
 Úpravy: Nikdo
 
 ## Poslední revize
