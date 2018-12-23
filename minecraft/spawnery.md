@@ -37,3 +37,11 @@ Spawnery jsou aktivní pouze, pokud je hráč u Spawneru v okolí 16 bloků! Mon
 # Jak získat Spawnery na našem serveru?
 Spawnery můžeš získat z Crates pomocí hlasování na http://warfaremc.eu/vote nebo zakoupením v Shopu.
 Spawnery také můžeš vytěžit **Silk Touchem** na krumpáči.
+
+# Revize
+## Autoři
+Základní článek: Yusarii
+Úpravy: Nikdo
+
+## Poslední revize
+Poslední revize článku byla provedena 23.12.2018 v 13:13
