@@ -51,7 +51,10 @@ Kategória, ktorá je plná energie, prináša nové stroje, generátory a reakt
 Kategória, ktorá prináša stroje, ktoré  vám pomôžu sa dostávať z miesta na miesto - teleportácia, ťažba ropy, atd.
 
 ## Cargo Management
-kategória, ktorá prináša stroje, ktoré vám pomôžu premiestňovať veci z miesta na miesto.
+Kategória, ktorá prináša stroje, ktoré vám pomôžu premiestňovať veci z miesta na miesto.
+
+## SlimeXpansion
+Kategória, ktorá prináša nové stroje, ktoré vám umožňujú ťažiť novú rudu - Thorium a tiež ťažiť rudy na diaľku.
 
 # Revize
 ## Autoři
@@ -59,4 +62,4 @@ Základní článek: pytroday
 Úpravy: Yusarii
 
 ## Poslední revize
-Poslední revize článku byla provedena 21.12.2018 v 15:41
+Poslední revize článku byla provedena 26.12.2018 v 22:20
