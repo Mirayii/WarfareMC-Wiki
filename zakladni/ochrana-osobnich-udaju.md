@@ -20,7 +20,7 @@ Tvá data používáme pouze v tichto situacích:
 * Při kontrole účtů na tvé IP Adrese, tzv. zpracování tvých údajů a IP Adresy v našich systémech
 * Dále je tvoje IP Adresa vždy ukládána do našeho systému, pokud jakkoliv procházíš náš web nebo hraješ na serveru. Tvá IP nebude nikdy veřejně přístupná.
 
-# Tvoje data jsou v bezpečí, jako nikdy předtím
+# Tvoje data jsou v bezpečí jako nikdy předtím
 Zaručujeme to, že tvoje data nebudou nikdy zvěřejněna bez tvého povolení. Jsou plně zabezpečena a normálním hráčům neveřejná.
 * Admin Team má přístup k tvé IP Adrese a k tvým nickům na ní
 * Vedení a Majitel má přístup ke všem údajům ukládané na našem webu
@@ -33,4 +33,4 @@ Jako cookie (anglicky koláček, oplatka, sušenka) se v protokolu HTTP označuj
 Máš možnost si zažádat o úpravu tvých údajů či smazání všech tvých údajů z naší databáze.
 
 # Akceptování využíváních tvých dat a Cookies
-Vyjádření nesouhlasu se zpracováním tvých údajů a Cookies nebudeš mít mžonost procházet náš Web a připojit se na Server.
+Vyjádření nesouhlasu se zpracováním tvých údajů a Cookies nebudeš mít možnost procházet náš Web a připojit se na Server.
