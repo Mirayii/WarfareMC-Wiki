@@ -19,21 +19,21 @@
 14. Všechny zde uvedené pravidla platí i pro členy A-Teamu.
 15. Hráč se zakoupeným VIP není imunní proti banu, mute, warnu, banu IP Adresy a dalších.
 16. Všechny bugy nalezené na serveru je povinné nahlásit na Fóra!
-17.  Všetok virtuálny obsah vytvorený na serveroch SoftCraft.eu, sa vzťahuje pod majetok SoftCraft.eu.
-18.  Je zakázáno se teleportovat na Residence Administrátorů.
+17. Všechen virtuální Majetek vytvořený na serveru patří pod Majetek serveru WarfareMC.eu, pokud vám bude vydání zálohy zamítnuto, nemůžete s tím nic dělat.
+18. Je zakázáno se teleportovat na Residence Administrátorů.
 19. Hráč si za svoje věci, stavby, virtuální předměty (VIP, Money) zodpovídá sám a server nemá povinnost mu věci vynahradit!
 20. Je zakázáno stavět jakékoliv troll stavby v okolí 50ti bloků od residence cizího hráče
 21. Je zakázáno blokovat residencí pohyb okolo cizí residence.
 22. To, co není napsáno pravidlech neznamená, že je to povolené.
 23. Je zakázán Tripple click a výš (Jitter click a Double Click je povolen)
 24. Je zakázáno vlastnit nagivované itemy.
-25. Je zakázáno mít nepovolené módy (http://softcraft.eu/mody)
+25. Je zakázáno mít nepovolené módy (http://wiki.warfaremc.eu/zakladni/mody)
 26. Je zakázáno kopírovat jakýkoliv obsah z našeho webu.
 27. Pokud hráč s originálním Minecraftem bude požadovat unregister, tak si může požádat v Off-Topicu o unregister
 28. Pokud si hráč zažádá unregister, musí mít důkaz že mu 100% Originální účet patří.
 29. Pokud si hráč změní jméno za účelem okradnutí warez účtu, tak hráč který se o to pokouší bude permanentně IP zabanován. (Pouze ten co se o to pokusil, nikoliv oběť)
 30. Hráči mají právo si přenést VIP na nový účet pokud doloží důkaz že jim 100% účet s VIP patří. tzv. se za něj přihlásí a vyscreenují to. (IP Adresa bude při převodu kontrolována pokud se nejedná o podvod)
-31. Po zakoupení VIP není možnost vrátit zpět peníze. Tudíž peníze z SMS automaticky přichází na účet Majitele ImDinikCZ na Fakaheda.eu
+31. Po zakoupení VIP není možnost vrátit zpět peníze. Tudíž peníze z SMS automaticky přichází na účet Majitele Yusarii na Fakaheda.eu
 32. Pokud si chcete zvětšit VIP, tak si musíte koupit vyšší VIP znova.
 33. Pokud máte vyšší VIP a koupíte si nižší není zde možnost jak vám Vyšší VIP vrátit, jedná se o vaši chybu.
 34. Na změnu ve výhodách si vyhrazujeme práva a změnu v /vyhody si vyhrazujeme právo provést v intervalu jednoho měsíce.
