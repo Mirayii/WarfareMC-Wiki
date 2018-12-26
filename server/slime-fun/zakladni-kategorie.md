@@ -62,4 +62,4 @@ Základní článek: pytroday
 Úpravy: Yusarii
 
 ## Poslední revize
-Poslední revize článku byla provedena 26.12.2018 v 22:20
+Poslední revize článku byla provedena 26.12.2018 v 22:24
