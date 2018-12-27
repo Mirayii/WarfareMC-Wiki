@@ -11,7 +11,7 @@
 6. Otravování A-Team se zbytečnými otázkami může vést k tempmute na 1 hodinu.
 7. Je zakázáno propagovat jiné servery nebo weby. Tento přestupek vede k perma IP banu.
 8. Všechny botové útoky jsou blokovány, pokud však přijdeme na to kdo tento bot útok uskutečnil tak bude permanentně IP Zabanován.
-9. Na našem serveru netolerujeme rasismus. (Swastika)
+9. Na našem serveru netolerujeme rasismus a nacismus (Swastika).
 10. Hráči s dynamickou IP, tedy proměnlivou mohou mít problémy při připojování na server. Tj. že mohou mít nečekaný ban, ip ban, nebo dokonce neuvidí server v MC. Pokud se chce hráč zbavit těchto problémů, musí si změnit IP na statickou u poskytovatele internetu nebo si jí ručně změnit/nastavit.
 11. Využívání Dynamické (Proměnlivé) IP Adresy za účelem porušování zde uvedených pravidel bude potrestáno a veškerá aktivita této IP Adresy bude nahlášena danému poskytovateli internetových služeb a tento problém bude řešen.
 12. Hráči s banem mají právo si zažádat na našich Fórech požádat o unban, toto neplatí pokud daný hráč má IP Ban.
