@@ -41,47 +41,54 @@
 36. Jsou zakázané náročné redstone obvody!
 37. Spawnery jsou limitovány! 10 spawnerů / chunk a 20 spawnerů / residence
 38. ADMIN NENÍ WIKIPEDIE! Použij http://www.google.cz
-
+39. **JE ZAKÁZÁNÝ MULTIACCOUNT** (Využívání více účtů za účelem obohatit se nebo jakkoliv se zbýhodnit oproti ostatním hráčům)
 # Eventy
 
-39. Hráč který pořádá event je povinen definovat pravidla eventu.
-40. Hráč nesmí umřít na eventu.
-41. Člen A-Teamu nesmí dávat za výhru eventu větší částku jak 10k
-42. Člen A-Teamu nesmí dávat za výhru enchantované věci, boss věci brnění meče atp.
-43. Člen A-Teamu může dát maximálně 30 diamantů za výhru v Eventu.
-44. Jakékoliv porušení pravidel eventu, na který dohlíží člen A-Teamu, může vyústit v tempban na 1 hodinu.
-45. Hráč má právo pořádat event ale musí se řídit pravidly.
-46. Je zakázáno používat na eventu SlimeFun věci.
+40. Hráč který pořádá event je povinen definovat pravidla eventu.
+41. Hráč nesmí umřít na eventu.
+42. Člen A-Teamu nesmí dávat za výhru eventu větší částku jak 10k
+43. Člen A-Teamu nesmí dávat za výhru enchantované věci, boss věci brnění meče atp.
+44. Člen A-Teamu může dát maximálně 30 diamantů za výhru v Eventu.
+45. Jakékoliv porušení pravidel eventu, na který dohlíží člen A-Teamu, může vyústit v tempban na 1 hodinu.
+46. Hráč má právo pořádat event ale musí se řídit pravidly.
+47. Je zakázáno používat na eventu SlimeFun věci.
 
 # TeamSpeak
 
-47. TS3 Správce, Majitel či Vedení si vyhrazují veškeré práva na odebrání groupy či avataru.
-48. Je zakázáno mít nevhodný description či avatar.  Zmazanie avatara / discripcie
-49. Ve Free roomkách je zakázáno pouštět hudbu, otravné zvuky, nahrávat či používat měniče hlasu. |Ban na 3-6 Hodín
-50. Návštěvník tohoto TS3 nesmí mít nick, který je urážlivý či nevhodný!
-51. Je zakázáno urážet, nadávat či spamovat. | Ban 4-8 hodín
-52. Je zakázáno dělat reklamu jakýmkoliv způsobem. | Perma ban
-53. Je zakázáno se vydávat za Youtubera či člena A-týmu. | Ban 1-3 dny
-54. Je zakázáno posílání lekacích obrázků. | 12-24H
-55. Je zakázáno se vyjadřovat či nějak projevovat nacismus, atd. | Perma ban
-56. Je zakázáno se připojovat za více jak 2 účty na zároveň. | Ban na 5-10 H
-57. Členové helper týmu jsou povinni mít na našem teamspeaku "nickname" se svým nickem, který mají i na serveru.
-58. Za zneužívání čekárny a obtěžování členů admin týmu nesmyslnými otázkami či "pouky" Ban 4-8H
-59. Je zakázáno mít vulgární či nevhodný název roomky či její description. Zmazanie room/descripcie
-60. Výklad pravidel a určování trestů náleží pouze členům A-týmu. Hráči nemají právo diskutovat s A-týmem o formě a výši trestu.
-61. Příchodem do čekárny za účelem řešit problém týkající se MC serveru se zavazujete, že nickname, který máte na TS3 serveru odpovídá nicku ve hře.
-62. Je zakázáno řvát, pískat do mikrofonu ve všech roomkách našeho TeamSpeaku | Ban 15-30 H
-63. Je zakázán SpamPoke! | Ban 15-30H
-64. Je zakázáno mít ClownFish, či jíne měniče hlasu | Ban 2-5D
-65. Všetky previdlá platia aj pre A-Team
-66. Je zakázáno kopírovat pravidla a obsah z našeho TeamSpeaku!
+48. TS3 Správce, Majitel či Vedení si vyhrazují veškeré práva na odebrání groupy či avataru.
+49. Je zakázáno mít nevhodný description či avatar.  Zmazanie avatara / discripcie
+50. Ve Free roomkách je zakázáno pouštět hudbu, otravné zvuky, nahrávat či používat měniče hlasu. |Ban na 3-6 Hodín
+51. Návštěvník tohoto TS3 nesmí mít nick, který je urážlivý či nevhodný!
+52. Je zakázáno urážet, nadávat či spamovat. | Ban 4-8 hodín
+53. Je zakázáno dělat reklamu jakýmkoliv způsobem. | Perma ban
+54. Je zakázáno se vydávat za Youtubera či člena A-týmu. | Ban 1-3 dny
+55. Je zakázáno posílání lekacích obrázků. | 12-24H
+56. Je zakázáno se vyjadřovat či nějak projevovat nacismus, atd. | Perma ban
+57. Je zakázáno se připojovat za více jak 2 účty na zároveň. | Ban na 5-10 H
+58. Členové helper týmu jsou povinni mít na našem teamspeaku "nickname" se svým nickem, který mají i na serveru.
+59. Za zneužívání čekárny a obtěžování členů admin týmu nesmyslnými otázkami či "pouky" Ban 4-8H
+60. Je zakázáno mít vulgární či nevhodný název roomky či její description. Zmazanie room/descripcie
+61. Výklad pravidel a určování trestů náleží pouze členům A-týmu. Hráči nemají právo diskutovat s A-týmem o formě a výši trestu.
+62. Příchodem do čekárny za účelem řešit problém týkající se MC serveru se zavazujete, že nickname, který máte na TS3 serveru odpovídá nicku ve hře.
+63. Je zakázáno řvát, pískat do mikrofonu ve všech roomkách našeho TeamSpeaku | Ban 15-30 H
+64. Je zakázán SpamPoke! | Ban 15-30H
+65. Je zakázáno mít ClownFish, či jíne měniče hlasu | Ban 2-5D
+66. Všetky previdlá platia aj pre A-Team
+67. Je zakázáno kopírovat pravidla a obsah z našeho TeamSpeaku!
 
 # YouTuber
 
-67. Náš server podporuje YouTubery, ale neznamená to že vezme všechny co se přihlásí. 
-68. Pro dosažení pozice YouTuber musí kanál mít 300+ odběratelů. Pokud má však kanál 2 uživatele, kteří na něj natáčí spolu, tak je vyžadováno 2x více odběratelů
-69. Při natáčení videa z našeho serveru vyžadujeme vložení IP Adresy serveru do Popisku videa nebo do videa.
-70. YouTubera hráč dostane v případě že natočí video (Ukázku) ze serveru a bude mít dostatečný počet odběratelů.
+68. Náš server podporuje YouTubery, ale neznamená to že vezme všechny co se přihlásí. 
+69. Pro dosažení pozice YouTuber musí kanál mít 300+ odběratelů. Pokud má však kanál 2 uživatele, kteří na něj natáčí spolu, tak je vyžadováno 2x více odběratelů
+70. Při natáčení videa z našeho serveru vyžadujeme vložení IP Adresy serveru do Popisku videa nebo do videa.
+71. YouTubera hráč dostane v případě že natočí video (Ukázku) ze serveru a bude mít dostatečný počet odběratelů.
+
+# Ekonomika
+72. Je zakázáno využívat bugy v Shopu, kterýma se lze obohatit. Hráč je povinnen nahlásit tento bug Vedení serveru na Discordu či Fóru.
+73. AdminTeam má zakázáno narušovat ekonomiku itemy z kitů či Creativu
+74. Je zakázáno zneužívat bugy v Jobs (Pokud se nějaké najdou).
+75. Je zakázáno využívat ChestShop na pasti (Falešné ceny itemů a podobne).
+76. Je zakázáno si dělat alternativní účty a z nich si posílat Start Pack money (Viz. MultiAccount)
 
 # Revize
 
