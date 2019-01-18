@@ -2,7 +2,10 @@
 <!-- SUBTITLE: Všechny replacementy v chatu -->
 
 # Seznam Replacementů
-## :shrug:
+# VŠECHNY REPLACEMENTY POUŽÍVEJ BEZ MEZER
+
+
+## : shrug :
 ¯\\_(ツ)_/¯
 
 ## o/
@@ -11,22 +14,22 @@
 ## : star :
 ✮
 
-## :tableflip:
+## : tableflip :
 (╯°□°）╯︵ ┻━┻
 
-## :unflip:
+## : unflip :
 ┬─┬ ノ( ゜-゜ノ)
 
-## :1v1:
+## : 1v1 :
 (ง'̀-'́)ง
 
-## :lenny:
+## : lenny :
 ( ͡° ͜ʖ ͡°)
 
-## :hype:
+## : hype :
 (づ｡◕‿‿◕｡)づ
 
-## :*
+## : *
 (づ￣ ³￣)づ
 
 ## : cool :
@@ -35,10 +38,10 @@
 ## : cry :
 (ಥ﹏ಥ)
 
-## :careless:
+## :careless :
 ◔_◔
 
-## :dance:
+## : dance :
 ♪♪ ヽ(ˇ∀ˇ )ゞ
 
 ## : point :
