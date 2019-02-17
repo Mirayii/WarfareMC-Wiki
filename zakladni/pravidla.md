@@ -41,7 +41,7 @@
 1.36. Jsou zakázané náročné redstone obvody!
 1.37. Hráč může mít v Residenci a okolí 50 bloků až 35 spawnerů, překročení této hranice se trestá odstraněním.
 1.38. ADMIN NENÍ WIKIPEDIE! Použij http://www.google.com
-1.39. **JE ZAKÁZÁNÝ MULTIACCOUNT** (Využívání více účtů za účelem obohatit se nebo jakkoliv se zbýhodnit oproti ostatním hráčům)
+1.39. **JE ZAKÁZANÝ MULTIACCOUNT** (Využívání více účtů za účelem obohatit se nebo jakkoliv se zvýhodnit oproti ostatním hráčům)
 1.40. **JE ZAKÁZÁNO KOPÍROVAT OBSAH NAŠEHO HERNÍHO SERVERU, WEBU, TEAMSPEAKU, DISCORDU**
 # 2. Eventy
 
@@ -101,6 +101,16 @@
 6.7. AdminTeam má právo hráče teleportovat, pokud se nachází v místech, kde nemá být.
 6.8. AdminTeam má možnost hráče varovat ústně a né rovnou příkazem /warn, avšak ústně může varovat jen jednou, poté musí následovat Warn přes Trestací Systém.
 6.9. Člen AdminTeamu, který odejde má možnost si zažádat o nejvyšší VIP na našem serveru, pokud jeho působení v AT je větší, jak 30 dní a byl dostatečně aktivní.
+
+## Sub Pravidla
+* Zakázané spawnery na Survivalu:
+* - Witch
+*  - Iron Golem
+*  - Wither
+*  - Ender Dragon
+*  - XP Orb
+*  - Shulker
+
 
 # 7. Revize
 
