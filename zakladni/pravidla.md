@@ -5,7 +5,7 @@
 
 1.1. Jakýkoliv hráč, co se registruje na webu nebo na našem serveru souhlasí se všemi uvedenými pravidly.
 1.2. Je zakázano používání hacked clientů, módů určených k podvádění, X-Ray resource packů a bugů na serveru.
-1.3. Hráč má právo na vyjádření svého názoru, pokud není v rozporu z pravidly.
+1.3. Hráč má právo na vyjádření svého názoru, pokud není v rozporu s pravidly.
 1.4. Hráč má právo na svobodu, utlačování tohoto práva bude vést k tempbanu osoby která ho utlačuje.
 1.5. Je zakázáno žádat A-Team o levely, itemy a další.
 1.6. Otravování A-Team se zbytečnými otázkami může vést k tempmute na 1 hodinu.
