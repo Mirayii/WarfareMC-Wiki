@@ -103,13 +103,13 @@
 6.9. Člen AdminTeamu, který odejde má možnost si zažádat o nejvyšší VIP na našem serveru, pokud jeho působení v AT je větší, jak 30 dní a byl dostatečně aktivní.
 
 ## Sub Pravidla
-* Zakázané spawnery na Survivalu:
-* - Witch
-*  - Iron Golem
-*  - Wither
-*  - Ender Dragon
-*  - XP Orb
-*  - Shulker
+* Zakázané spawnery na Survivalu pomocí příkazu **/spawner**:
+* Witch
+* Iron Golem
+* Wither
+* Ender Dragon
+* XP Orb
+* Shulker
 
 
 # 7. Revize
