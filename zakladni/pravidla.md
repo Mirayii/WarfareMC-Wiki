@@ -95,7 +95,7 @@
 6.1. AdminTeam má zakázáno pomáhat hráčům! (WorldEdit, Giving, atd.)
 6.2. AdminTeam má zakázáno manipulovat s obsahem hráčské residence bez povolení jeho Majitele nebo pokud obsah Residence nebude porušovat pravidla.
 6.3. AdminTeam nesmí napomáhat hráčům při Eventu.
-6.4. Všechny AT Ranky s povolením na /money give atp. mají zakázáno odesílat peníze hráčům na serveru, využívat je v Aukcích, Využívat je v Hráčských Shopech nebo s ním kupovat itemy v shopu a ty pak dávat hráčům. Důvodem je to, že Eventer má právo na nagivování peněz. Pokud tyto chcete hrát normálně, informujte Vedení serveru o povolení.
+6.4. Všechny AT Ranky s povolením na /money give atp. mají zakázáno odesílat peníze hráčům na serveru, využívat je v Aukcích, Využívat je v Hráčských Shopech nebo s ním kupovat itemy v shopu a ty pak dávat hráčům. Důvodem je to, že daný Rank má právo na nagivování peněz. Pokud člen AT s tímto rankem chce hrát normálně, informujte Vedení serveru o povolení.
 6.5. AdminTeam nesmí trestat hráče bez důvodu!
 6.6. AdminTeam nesmí chodit Trollit na jiné servery!
 6.7. AdminTeam má právo hráče teleportovat, pokud se nacházíte v místech, kde nemáte být.
