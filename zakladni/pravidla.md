@@ -26,7 +26,7 @@
 21. Je zakázáno blokovat residencí pohyb okolo cizí residence.
 22. To, co není napsáno pravidlech neznamená, že je to povolené.
 23. Je zakázán Tripple click a výš (Jitter click a Double Click je povolen)
-24. Je zakázáno vlastnit nagivované itemy.
+24. Je zakázáno vlastnit nagivované itemy, nabugované itemy, barriery, bedrock a jiné nedosažitelné věci.
 25. Je zakázáno mít nepovolené módy (http://wiki.warfaremc.eu/zakladni/mody)
 26. Je zakázáno kopírovat jakýkoliv obsah z našeho webu.
 27. Pokud hráč s originálním Minecraftem bude požadovat unregister, tak si může požádat v Off-Topicu o unregister
@@ -39,8 +39,8 @@
 34. Na změnu ve výhodách si vyhrazujeme práva a změnu v /vyhody si vyhrazujeme právo provést v intervalu jednoho měsíce.
 35. Jsou zakázané Enchant All a Hacked Itemy. Toto pravidlo platí všeobecně.
 36. Jsou zakázané náročné redstone obvody!
-37. Spawnery jsou limitovány! 10 spawnerů / chunk a 20 spawnerů / residence
-38. ADMIN NENÍ WIKIPEDIE! Použij http://www.google.cz
+37. Hráč může mít v Residenci a okolí 50 bloků až 35 spawnerů, překročení této hranice se trestá odstraněním.
+38. ADMIN NENÍ WIKIPEDIE! Použij http://www.google.com
 39. **JE ZAKÁZÁNÝ MULTIACCOUNT** (Využívání více účtů za účelem obohatit se nebo jakkoliv se zbýhodnit oproti ostatním hráčům)
 # Eventy
 
