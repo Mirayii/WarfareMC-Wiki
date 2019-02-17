@@ -1,98 +1,110 @@
 <!-- TITLE: Pravidla Projektu -->
 <!-- SUBTITLE: Pravidla našeho projektu -->
 
-# Obecná pravidla
+# 1. Obecná pravidla
 
-1. Jakýkoliv hráč, co se registruje na webu nebo na našem serveru souhlasí se všemi uvedenými pravidly.
-2. Je zakázano používání hacked clientů, módů určených k podvádění, X-Ray resource packů a bugů na serveru.
-3. Hráč má právo na vyjádření svého názoru, pokud není v rozporu z pravidly.
-4. Hráč má právo na svobodu, utlačování tohoto práva bude vést k tempbanu osoby která ho utlačuje.
-5. Je zakázáno žádat A-Team o levely, itemy a další.
-6. Otravování A-Team se zbytečnými otázkami může vést k tempmute na 1 hodinu.
-7. Je zakázáno propagovat jiné servery nebo weby. Tento přestupek vede k perma IP banu.
-8. Všechny botové útoky jsou blokovány, pokud však přijdeme na to kdo tento bot útok uskutečnil tak bude permanentně IP Zabanován.
-9. Na našem serveru netolerujeme rasismus a nacismus (Swastika).
-10. Hráči s dynamickou IP, tedy proměnlivou mohou mít problémy při připojování na server. Tj. že mohou mít nečekaný ban, ip ban, nebo dokonce neuvidí server v MC. Pokud se chce hráč zbavit těchto problémů, musí si změnit IP na statickou u poskytovatele internetu nebo si jí ručně změnit/nastavit.
-11. Využívání Dynamické (Proměnlivé) IP Adresy za účelem porušování zde uvedených pravidel bude potrestáno a veškerá aktivita této IP Adresy bude nahlášena danému poskytovateli internetových služeb a tento problém bude řešen.
-12. Hráči s banem mají právo si zažádat na našich Fórech požádat o unban, toto neplatí pokud daný hráč má IP Ban.
-13. Náš server nabízí "Druhou šanci" pro zabanované hráče. Pokud ale i poté bude daný hráč porušovat pravidla serveru, bude mu udělen permanentní IP Ban bez možnosti si zažádat o unban.
-14. Všechny zde uvedené pravidla platí i pro členy A-Teamu.
-15. Hráč se zakoupeným VIP není imunní proti banu, mute, warnu, banu IP Adresy a dalších.
-16. Všechny bugy nalezené na serveru je povinné nahlásit na Fóra!
-17. Všechen virtuální Majetek vytvořený na serveru patří pod Majetek serveru WarfareMC.eu, pokud vám bude vydání zálohy zamítnuto, nemůžete s tím nic dělat.
-18. Je zakázáno se teleportovat na Residence Administrátorů.
-19. Hráč si za svoje věci, stavby, virtuální předměty (VIP, Money) zodpovídá sám a server nemá povinnost mu věci vynahradit!
-20. Je zakázáno stavět jakékoliv troll stavby v okolí 50ti bloků od residence cizího hráče
-21. Je zakázáno blokovat residencí pohyb okolo cizí residence.
-22. To, co není napsáno pravidlech neznamená, že je to povolené.
-23. Je zakázán Tripple click a výš (Jitter click a Double Click je povolen)
-24. Je zakázáno vlastnit nagivované itemy, nabugované itemy, barriery, bedrock a jiné nedosažitelné věci.
-25. Je zakázáno mít nepovolené módy (http://wiki.warfaremc.eu/zakladni/mody)
-26. Je zakázáno kopírovat jakýkoliv obsah z našeho webu.
-27. Pokud hráč s originálním Minecraftem bude požadovat unregister, tak si může požádat v Off-Topicu o unregister
-28. Pokud si hráč zažádá unregister, musí mít důkaz že mu 100% Originální účet patří.
-29. Pokud si hráč změní jméno za účelem okradnutí warez účtu, tak hráč který se o to pokouší bude permanentně IP zabanován. (Pouze ten co se o to pokusil, nikoliv oběť)
-30. Hráči mají právo si přenést VIP na nový účet pokud doloží důkaz že jim 100% účet s VIP patří. tzv. se za něj přihlásí a vyscreenují to. (IP Adresa bude při převodu kontrolována pokud se nejedná o podvod)
-31. Po zakoupení VIP není možnost vrátit zpět peníze. Tudíž peníze z SMS automaticky přichází na účet Majitele Yusarii na Fakaheda.eu
-32. Pokud si chcete zvětšit VIP, tak si musíte koupit vyšší VIP znova.
-33. Pokud máte vyšší VIP a koupíte si nižší není zde možnost jak vám Vyšší VIP vrátit, jedná se o vaši chybu.
-34. Na změnu ve výhodách si vyhrazujeme práva a změnu v /vyhody si vyhrazujeme právo provést v intervalu jednoho měsíce.
-35. Jsou zakázané Enchant All a Hacked Itemy. Toto pravidlo platí všeobecně.
-36. Jsou zakázané náročné redstone obvody!
-37. Hráč může mít v Residenci a okolí 50 bloků až 35 spawnerů, překročení této hranice se trestá odstraněním.
-38. ADMIN NENÍ WIKIPEDIE! Použij http://www.google.com
-39. **JE ZAKÁZÁNÝ MULTIACCOUNT** (Využívání více účtů za účelem obohatit se nebo jakkoliv se zbýhodnit oproti ostatním hráčům)
-# Eventy
+1.1. Jakýkoliv hráč, co se registruje na webu nebo na našem serveru souhlasí se všemi uvedenými pravidly.
+1.2. Je zakázano používání hacked clientů, módů určených k podvádění, X-Ray resource packů a bugů na serveru.
+1.3. Hráč má právo na vyjádření svého názoru, pokud není v rozporu z pravidly.
+1.4. Hráč má právo na svobodu, utlačování tohoto práva bude vést k tempbanu osoby která ho utlačuje.
+1.5. Je zakázáno žádat A-Team o levely, itemy a další.
+1.6. Otravování A-Team se zbytečnými otázkami může vést k tempmute na 1 hodinu.
+1.7. Je zakázáno propagovat jiné servery nebo weby. Tento přestupek vede k perma IP banu.
+1.8. Všechny botové útoky jsou blokovány, pokud však přijdeme na to kdo tento bot útok uskutečnil tak bude permanentně IP Zabanován.
+1.9. Na našem serveru netolerujeme rasismus a nacismus (Swastika).
+1.10. Hráči s dynamickou IP, tedy proměnlivou mohou mít problémy při připojování na server. Tj. že mohou mít nečekaný ban, ip ban, nebo dokonce neuvidí server v MC. Pokud se chce hráč zbavit těchto problémů, musí si změnit IP na statickou u poskytovatele internetu nebo si jí ručně změnit/nastavit.
+1.11. Využívání Dynamické (Proměnlivé) IP Adresy za účelem porušování zde uvedených pravidel bude potrestáno a veškerá aktivita této IP Adresy bude nahlášena danému poskytovateli internetových služeb a tento problém bude řešen.
+1.12. Hráči s banem mají právo si zažádat na našich Fórech požádat o unban, toto neplatí pokud daný hráč má IP Ban.
+1.13. Náš server nabízí "Druhou šanci" pro zabanované hráče. Pokud ale i poté bude daný hráč porušovat pravidla serveru, bude mu udělen permanentní IP Ban bez možnosti si zažádat o unban.
+1.14. Všechny zde uvedené pravidla platí i pro členy A-Teamu.
+1.15. Hráč se zakoupeným VIP není imunní proti banu, mute, warnu, banu IP Adresy a dalších.
+1.16. Všechny bugy nalezené na serveru je povinné nahlásit na Fóra!
+1.17. Všechen virtuální Majetek vytvořený na serveru patří pod Majetek serveru WarfareMC.eu, pokud vám bude vydání zálohy zamítnuto, nemůžete s tím nic dělat.
+1.18. Je zakázáno se teleportovat na Residence Administrátorů.
+1.19. Hráč si za svoje věci, stavby, virtuální předměty (VIP, Money) zodpovídá sám a server nemá povinnost mu věci vynahradit!
+1.20. Je zakázáno stavět jakékoliv troll stavby v okolí 50ti bloků od residence cizího hráče
+1.21. Je zakázáno blokovat residencí pohyb okolo cizí residence.
+1.22. To, co není napsáno pravidlech neznamená, že je to povolené.
+1.23. Je zakázán Tripple click a výš (Jitter click a Double Click je povolen)
+1.24. Je zakázáno vlastnit nagivované itemy, nabugované itemy, barriery, bedrock a jiné nedosažitelné věci.
+1.25. Je zakázáno mít nepovolené módy (http://wiki.warfaremc.eu/zakladni/mody)
+1.26. Je zakázáno kopírovat jakýkoliv obsah z našeho webu.
+1.27. Pokud hráč s originálním Minecraftem bude požadovat unregister, tak si může požádat v Off-Topicu o unregister
+1.28. Pokud si hráč zažádá unregister, musí mít důkaz že mu 100% Originální účet patří.
+1.29. Pokud si hráč změní jméno za účelem okradnutí warez účtu, tak hráč který se o to pokouší bude permanentně IP zabanován. (Pouze ten co se o to pokusil, nikoliv oběť)
+1.30. Hráči mají právo si přenést VIP na nový účet pokud doloží důkaz že jim 100% účet s VIP patří. tzv. se za něj přihlásí a vyscreenují to. (IP Adresa bude při převodu kontrolována pokud se nejedná o podvod)
+1.31. Po zakoupení VIP není možnost vrátit zpět peníze. Tudíž peníze z SMS automaticky přichází na účet Majitele Yusarii na Fakaheda.eu
+1.32. Pokud si chcete zvětšit VIP, tak si musíte koupit vyšší VIP znova.
+1.33. Pokud máte vyšší VIP a koupíte si nižší není zde možnost jak vám Vyšší VIP vrátit, jedná se o vaši chybu.
+1.34. Na změnu ve výhodách si vyhrazujeme práva a změnu v /vyhody si vyhrazujeme právo provést v intervalu jednoho měsíce.
+1.35. Jsou zakázané Enchant All a Hacked Itemy. Toto pravidlo platí všeobecně.
+1.36. Jsou zakázané náročné redstone obvody!
+1.37. Hráč může mít v Residenci a okolí 50 bloků až 35 spawnerů, překročení této hranice se trestá odstraněním.
+1.38. ADMIN NENÍ WIKIPEDIE! Použij http://www.google.com
+1.39. **JE ZAKÁZÁNÝ MULTIACCOUNT** (Využívání více účtů za účelem obohatit se nebo jakkoliv se zbýhodnit oproti ostatním hráčům)
+1.40. **JE ZAKÁZÁNO KOPÍROVAT OBSAH NAŠEHO HERNÍHO SERVERU, WEBU, TEAMSPEAKU, DISCORDU**
+# 2. Eventy
 
-40. Hráč který pořádá event je povinen definovat pravidla eventu.
-41. Hráč nesmí umřít na eventu.
-42. Člen A-Teamu nesmí dávat za výhru eventu větší částku jak 10k
-43. Člen A-Teamu nesmí dávat za výhru enchantované věci, boss věci brnění meče atp.
-44. Člen A-Teamu může dát maximálně 30 diamantů za výhru v Eventu.
-45. Jakékoliv porušení pravidel eventu, na který dohlíží člen A-Teamu, může vyústit v tempban na 1 hodinu.
-46. Hráč má právo pořádat event ale musí se řídit pravidly.
-47. Je zakázáno používat na eventu SlimeFun věci.
+2.1. Hráč který pořádá event je povinen definovat pravidla eventu.
+2.2. Hráč nesmí umřít na eventu.
+2.2. Člen A-Teamu nesmí dávat za výhru eventu větší částku jak 10 tisíc.
+2.3. Člen A-Teamu nesmí dávat za výhru enchantované věci, boss věci, brnění, meče, atp.
+2.4. Člen A-Teamu může dát maximálné množství 30 itemů dohromady. (Např.. 15 Dia a 15 Iron)
+2.5. Jakékoliv porušení pravidel eventu, na který dohlíží člen A-Teamu, může vyústit v tempban na 1 hodinu.
+2.6. Hráč má právo pořádat event, ale musí se řídit pravidly.
+2.7. Je zakázáno používat na eventu SlimeFun věci.
+2.8. Je zakázáno na Eventu používat jakékoliv příkazy znevýhodňující ostatní hráče.
 
-# TeamSpeak
 
-48. TS3 Správce, Majitel či Vedení si vyhrazují veškeré práva na odebrání groupy či avataru.
-49. Je zakázáno mít nevhodný description či avatar.  Zmazanie avatara / discripcie
-50. Ve Free roomkách je zakázáno pouštět hudbu, otravné zvuky, nahrávat či používat měniče hlasu. |Ban na 3-6 Hodín
-51. Návštěvník tohoto TS3 nesmí mít nick, který je urážlivý či nevhodný!
-52. Je zakázáno urážet, nadávat či spamovat. | Ban 4-8 hodín
-53. Je zakázáno dělat reklamu jakýmkoliv způsobem. | Perma ban
-54. Je zakázáno se vydávat za Youtubera či člena A-týmu. | Ban 1-3 dny
-55. Je zakázáno posílání lekacích obrázků. | 12-24H
-56. Je zakázáno se vyjadřovat či nějak projevovat nacismus, atd. | Perma ban
-57. Je zakázáno se připojovat za více jak 2 účty na zároveň. | Ban na 5-10 H
-58. Členové helper týmu jsou povinni mít na našem teamspeaku "nickname" se svým nickem, který mají i na serveru.
-59. Za zneužívání čekárny a obtěžování členů admin týmu nesmyslnými otázkami či "pouky" Ban 4-8H
-60. Je zakázáno mít vulgární či nevhodný název roomky či její description. Zmazanie room/descripcie
-61. Výklad pravidel a určování trestů náleží pouze členům A-týmu. Hráči nemají právo diskutovat s A-týmem o formě a výši trestu.
-62. Příchodem do čekárny za účelem řešit problém týkající se MC serveru se zavazujete, že nickname, který máte na TS3 serveru odpovídá nicku ve hře.
-63. Je zakázáno řvát, pískat do mikrofonu ve všech roomkách našeho TeamSpeaku | Ban 15-30 H
-64. Je zakázán SpamPoke! | Ban 15-30H
-65. Je zakázáno mít ClownFish, či jíne měniče hlasu | Ban 2-5D
-66. Všetky previdlá platia aj pre A-Team
-67. Je zakázáno kopírovat pravidla a obsah z našeho TeamSpeaku!
+# 3. TeamSpeak
 
-# YouTuber
+3.1. TS3 Správce, Majitel či Vedení si vyhrazují veškeré práva na odebrání groupy či avataru.
+3.2. Je zakázáno mít nevhodný description či avatar.  Zmazanie avatara / discripcie
+3.3. Ve Free roomkách je zakázáno pouštět hudbu, otravné zvuky, nahrávat či používat měniče hlasu. |Ban na 3-6 Hodín
+3.4. Návštěvník tohoto TS3 nesmí mít nick, který je urážlivý či nevhodný!
+3.5. Je zakázáno urážet, nadávat či spamovat. | Ban 4-8 hodín
+3.6. Je zakázáno dělat reklamu jakýmkoliv způsobem. | Perma ban
+3.7. Je zakázáno se vydávat za Youtubera či člena A-týmu. | Ban 1-3 dny
+3.8. Je zakázáno posílání lekacích obrázků. | 12-24H
+3.9. Je zakázáno se vyjadřovat či nějak projevovat nacismus, atd. | Perma ban
+3.10. Členové helper týmu jsou povinni mít na našem teamspeaku "nickname" se svým nickem, který mají i na serveru.
+3.11. Za zneužívání čekárny a obtěžování členů admin týmu nesmyslnými otázkami či "pouky" Ban 4-8H
+3.12. Je zakázáno mít vulgární či nevhodný název roomky či její description. Zmazanie room/descripcie
+3.13. Výklad pravidel a určování trestů náleží pouze členům A-týmu. Hráči nemají právo diskutovat s A-týmem o formě a výši trestu.
+3.14. Příchodem do čekárny za účelem řešit problém týkající se MC serveru se zavazujete, že nickname, který máte na TS3 serveru odpovídá nicku ve hře.
+3.15. Je zakázáno řvát, pískat do mikrofonu ve všech roomkách našeho TeamSpeaku | Ban 15-30 H
+3.16. Je zakázán SpamPoke! | Ban 15-30H
+3.17. Je zakázáno mít ClownFish, či jíne měniče hlasu | Ban 2-5D
+3.18. Všechny pravidla platí také pro AdminTeam na TeamSpeaku
 
-68. Náš server podporuje YouTubery, ale neznamená to že vezme všechny co se přihlásí. 
-69. Pro dosažení pozice YouTuber musí kanál mít 300+ odběratelů. Pokud má však kanál 2 uživatele, kteří na něj natáčí spolu, tak je vyžadováno 2x více odběratelů
-70. Při natáčení videa z našeho serveru vyžadujeme vložení IP Adresy serveru do Popisku videa nebo do videa.
-71. YouTubera hráč dostane v případě že natočí video (Ukázku) ze serveru a bude mít dostatečný počet odběratelů.
+# 4. YouTuber
 
-# Ekonomika
-72. Je zakázáno využívat bugy v Shopu, kterýma se lze obohatit. Hráč je povinnen nahlásit tento bug Vedení serveru na Discordu či Fóru.
-73. AdminTeam má zakázáno narušovat ekonomiku itemy z kitů či Creativu
-74. Je zakázáno zneužívat bugy v Jobs (Pokud se nějaké najdou).
-75. Je zakázáno využívat ChestShop na pasti (Falešné ceny itemů a podobne).
-76. Je zakázáno si dělat alternativní účty a z nich si posílat Start Pack money (Viz. MultiAccount)
+4.1. Náš server podporuje YouTubery, ale neznamená to že vezme všechny co se přihlásí. 
+4.2. Pro dosažení pozice YouTuber musí kanál mít 300+ odběratelů. Pokud má však kanál 2 uživatele, kteří na něj natáčí spolu, tak je vyžadováno 2x více odběratelů
+4.3. Při natáčení videa z našeho serveru vyžadujeme vložení IP Adresy serveru do Popisku videa nebo do videa.
+4.4. YouTubera hráč dostane v případě že natočí video (Ukázku) ze serveru a bude mít dostatečný počet odběratelů.
 
-# Revize
+# 5. Ekonomika
+5.1. Je zakázáno využívat bugy v Shopu, kterýma se lze obohatit. Hráč je povinnen nahlásit tento bug Vedení serveru na Discordu či Fóru.
+5.2. AdminTeam má zakázáno narušovat ekonomiku itemy z kitů či Creativu
+5.3. Je zakázáno zneužívat bugy v Jobs (Pokud se nějaké najdou).
+5.4. Je zakázáno využívat ChestShop na pasti (Falešné ceny itemů a podobne).
+5.5. Je zakázáno si dělat alternativní účty a z nich si posílat Start Pack money (Viz. MultiAccount)
 
-Pravidla upravena dne 26.12.2018 v 22:57 Majitelem Yusarii!
+# 6. AdminTeam
+6.1. AdminTeam má zakázáno pomáhat hráčům! (WorldEdit, Giving, atd.)
+6.2. AdminTeam má zakázáno manipulovat s obsahem hráčské residence bez povolení jeho Majitele nebo pokud obsah Residence nebude porušovat pravidla.
+6.3. AdminTeam nesmí napomáhat hráčům při Eventu.
+6.4. Všechny AT Ranky s povolením na /money give atp. mají zakázáno odesílat peníze hráčům na serveru, využívat je v Aukcích, Využívat je v Hráčských Shopech nebo s ním kupovat itemy v shopu a ty pak dávat hráčům. Důvodem je to, že Eventer má právo na nagivování peněz. Pokud tyto chcete hrát normálně, informujte Vedení serveru o povolení.
+6.5. AdminTeam nesmí trestat hráče bez důvodu!
+6.6. AdminTeam nesmí chodit Trollit na jiné servery!
+6.7. AdminTeam má právo hráče teleportovat, pokud se nacházíte v místech, kde nemáte být.
+6.8. AdminTeam má možnost hráče varovat ústně a né rovnou příkazem /warn, avšak ústně může varovat jen jednou, poté musí následovat Warn přes Trestací Systém.
+6.9. Člen AdminTeamu, který odejde má právo si zažádat o nejvyšší VIP na našem serveru, pokud jeho působení v AT je větší, jak 30 dní a byl dostatečně aktivní.
+
+# 7. Revize
+
+Pravidla upravena dne 17.2.2019 v 12:32 Majitelem Yusarii!
 Kdykoliv si vyhrazujeme práva na úpravu pravidel.
 Neznalost pravidel vás neomlouvá!
 Hraním na našich serverech souhlasíte s pravidly a GDPR -> http://warfaremc.eu/gdpr
