@@ -98,7 +98,7 @@
 6.4. Všechny AT Ranky s povolením na /money give atp. mají zakázáno odesílat peníze hráčům na serveru, využívat je v Aukcích, Využívat je v Hráčských Shopech nebo s ním kupovat itemy v shopu a ty pak dávat hráčům. Důvodem je to, že daný Rank má právo na nagivování peněz. Pokud člen AT s tímto rankem chce hrát normálně, informujte Vedení serveru o povolení.
 6.5. AdminTeam nesmí trestat hráče bez důvodu!
 6.6. AdminTeam nesmí chodit Trollit na jiné servery!
-6.7. AdminTeam má právo hráče teleportovat, pokud se nacházíte v místech, kde nemáte být.
+6.7. AdminTeam má právo hráče teleportovat, pokud se nachází v místech, kde nemá být.
 6.8. AdminTeam má možnost hráče varovat ústně a né rovnou příkazem /warn, avšak ústně může varovat jen jednou, poté musí následovat Warn přes Trestací Systém.
 6.9. Člen AdminTeamu, který odejde má právo si zažádat o nejvyšší VIP na našem serveru, pokud jeho působení v AT je větší, jak 30 dní a byl dostatečně aktivní.
 
