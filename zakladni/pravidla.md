@@ -49,7 +49,7 @@
 2.2. Hráč nesmí umřít na eventu.
 2.2. Člen A-Teamu nesmí dávat za výhru eventu větší částku jak 10 tisíc.
 2.3. Člen A-Teamu nesmí dávat za výhru enchantované věci, boss věci, brnění, meče, atp.
-2.4. Člen A-Teamu může dát maximálné množství 30 itemů dohromady. (Např.. 15 Dia a 15 Iron)
+2.4. Člen A-Teamu může dát maximálné množství 30 itemů dohromady. (Např. 15 Dia a 15 Iron)
 2.5. Jakékoliv porušení pravidel eventu, na který dohlíží člen A-Teamu, může vyústit v tempban na 1 hodinu.
 2.6. Hráč má právo pořádat event, ale musí se řídit pravidly.
 2.7. Je zakázáno používat na eventu SlimeFun věci.
