@@ -3,46 +3,48 @@
 
 # 1. Obecná pravidla
 
-1.1. Jakýkoliv hráč, co se registruje na webu nebo na našem serveru souhlasí se všemi uvedenými pravidly.
+1.1. Jakýkoliv hráč, co se registruje na webu nebo na našem serveru souhlasí se všemi uvedenými pravidly a GDPR (Ochrana osobních údajů).
 1.2. Je zakázano používání hacked clientů, módů určených k podvádění, X-Ray resource packů a bugů na serveru.
 1.3. Hráč má právo na vyjádření svého názoru, pokud není v rozporu s pravidly.
-1.4. Hráč má právo na svobodu, utlačování tohoto práva bude vést k tempbanu osoby která ho utlačuje.
-1.5. Je zakázáno žádat A-Team o levely, itemy a další.
+1.4. Hráč má právo na svobodu, utlačování tohoto práva bude vést k tempbanu osoby, která ho utlačuje.
+1.5. **Je zakázáno žádat A-Team o levely, itemy a další.**
 1.6. Otravování A-Team se zbytečnými otázkami může vést k tempmute na 1 hodinu.
-1.7. Je zakázáno propagovat jiné servery nebo weby. Tento přestupek vede k perma IP banu.
-1.8. Všechny botové útoky jsou blokovány, pokud však přijdeme na to kdo tento bot útok uskutečnil tak bude permanentně IP Zabanován.
+1.7. **Je zakázáno propagovat jiné servery nebo weby. Tento přestupek vede k perma IP banu.
+1.8. Všechny bot útoky jsou blokovány, pokud však přijdeme na to kdo tento bot útok uskutečnil tak bude permanentně IP Zabanován a v případě odhalení útočníka bude záznam poslán internetovému poskytovateli (Flooding)**
 1.9. Na našem serveru netolerujeme rasismus a nacismus (Swastika).
-1.10. Hráči s dynamickou IP, tedy proměnlivou mohou mít problémy při připojování na server. Tj. že mohou mít nečekaný ban, ip ban, nebo dokonce neuvidí server v MC. Pokud se chce hráč zbavit těchto problémů, musí si změnit IP na statickou u poskytovatele internetu nebo si jí ručně změnit/nastavit.
+1.10. Hráči s dynamickou IP, tedy proměnlivou mohou mít problémy při připojování na server. Tj. že mohou mít nečekaný ban, ip ban nebo dokonce neuvidí server ve hře. Pokud se chce hráč zbavit těchto problémů, musí si změnit IP na statickou u poskytovatele internetu nebo si jí ručně změnit/nastavit.
 1.11. Využívání Dynamické (Proměnlivé) IP Adresy za účelem porušování zde uvedených pravidel bude potrestáno a veškerá aktivita této IP Adresy bude nahlášena danému poskytovateli internetových služeb a tento problém bude řešen.
 1.12. Hráči s banem mají právo si zažádat na našich Fórech požádat o unban, toto neplatí pokud daný hráč má IP Ban.
 1.13. Náš server nabízí "Druhou šanci" pro zabanované hráče. Pokud ale i poté bude daný hráč porušovat pravidla serveru, bude mu udělen permanentní IP Ban bez možnosti si zažádat o unban.
 1.14. Všechny zde uvedené pravidla platí i pro členy A-Teamu.
-1.15. Hráč se zakoupeným VIP není imunní proti banu, mute, warnu, banu IP Adresy a dalších.
-1.16. Všechny bugy nalezené na serveru je povinné nahlásit na Fóra!
+1.15. **Hráč se zakoupeným VIP není imunní proti banu, mute, warnu, banu IP Adresy a dalších.**
+1.16. **Všechny bugy nalezené na serveru je povinné nahlásit na Fóra nebo Discord!**
 1.17. Všechen virtuální Majetek vytvořený na serveru patří pod Majetek serveru WarfareMC.eu, pokud vám bude vydání zálohy zamítnuto, nemůžete s tím nic dělat.
 1.18. Je zakázáno se teleportovat na Residence Administrátorů.
 1.19. Hráč si za svoje věci, stavby, virtuální předměty (VIP, Money) zodpovídá sám a server nemá povinnost mu věci vynahradit!
 1.20. Je zakázáno stavět jakékoliv troll stavby v okolí 50ti bloků od residence cizího hráče
 1.21. Je zakázáno blokovat residencí pohyb okolo cizí residence.
-1.22. To, co není napsáno pravidlech neznamená, že je to povolené.
-1.23. Je zakázán Tripple click a výš (Jitter click a Double Click je povolen)
-1.24. Je zakázáno vlastnit nagivované itemy, nabugované itemy, barriery, bedrock a jiné nedosažitelné věci.
+1.22. **To, co není napsáno pravidlech neznamená, že je to povolené.**
+1.23. **Je zakázán Tripple click a výš (Jitter click a Double Click je povolen)**
+1.24. **Je zakázáno vlastnit nagivované itemy, nabugované itemy, barriery, bedrock a jiné nedosažitelné věci.**
 1.25. Je zakázáno mít nepovolené módy (http://wiki.warfaremc.eu/zakladni/mody)
-1.26. Je zakázáno kopírovat jakýkoliv obsah z našeho webu.
+1.26. **Je zakázáno trollit, poškozovat nebo tvořit falešné eventy.**
 1.27. Pokud hráč s originálním Minecraftem bude požadovat unregister, tak si může požádat v Off-Topicu o unregister
 1.28. Pokud si hráč zažádá unregister, musí mít důkaz že mu 100% Originální účet patří.
 1.29. Pokud si hráč změní jméno za účelem okradnutí warez účtu, tak hráč který se o to pokouší bude permanentně IP zabanován. (Pouze ten co se o to pokusil, nikoliv oběť)
 1.30. Hráči mají právo si přenést VIP na nový účet pokud doloží důkaz že jim 100% účet s VIP patří. tzv. se za něj přihlásí a vyscreenují to. (IP Adresa bude při převodu kontrolována pokud se nejedná o podvod)
-1.31. Po zakoupení VIP není možnost vrátit zpět peníze. Tudíž peníze z SMS automaticky přichází na účet Majitele Yusarii na Fakaheda.eu
-1.32. Pokud si chcete zvětšit VIP, tak si musíte koupit vyšší VIP znova.
+1.31. **Po zakoupení VIP není možnost vrátit zpět peníze. Tudíž peníze z SMS automaticky přichází na účet Majitele Yusarii na Fakaheda.eu**
+1.32. **Pokud si chcete zvětšit VIP, tak si musíte koupit vyšší VIP znova.**
 1.33. Pokud máte vyšší VIP a koupíte si nižší není zde možnost jak vám Vyšší VIP vrátit, jedná se o vaši chybu.
-1.34. Na změnu ve výhodách si vyhrazujeme práva a změnu v /vyhody si vyhrazujeme právo provést v intervalu jednoho měsíce.
-1.35. Jsou zakázané Enchant All a Hacked Itemy. Toto pravidlo platí všeobecně.
+1.34. **Na změnu ve výhodách si vyhrazujeme práva a změnu v /vyhody si vyhrazujeme právo provést v intervalu jednoho měsíce.**
+1.35. Jsou zakázané Enchant All a Hacked Itemy.
 1.36. Jsou zakázané náročné redstone obvody!
-1.37. Hráč může mít v Residenci a okolí 50 bloků až 35 spawnerů, překročení této hranice se trestá odstraněním.
+1.37. **Hráč může mít ve všech Residencích a okolí 50 bloků až 35 spawnerů, překročení této hranice se trestá odstraněním a v případě opakování i zabanováním na 7 dní.**
 1.38. ADMIN NENÍ WIKIPEDIE! Použij http://www.google.com
 1.39. **JE ZAKÁZANÝ MULTIACCOUNT** (Využívání více účtů za účelem obohatit se nebo jakkoliv se zvýhodnit oproti ostatním hráčům)
 1.40. **JE ZAKÁZÁNO KOPÍROVAT OBSAH NAŠEHO HERNÍHO SERVERU, WEBU, TEAMSPEAKU, DISCORDU**
+1.41. **JE ZAKÁZÁNO OBCHÁZET STANOVENÉ PRAVIDLA PROJEKTU**
+1.42. **__JE ZAKÁZÁNO ROZŠIROVAT OSOBNÍ ÚDAJE O ADMINTEAMU A HRÁČÍCH__** (Např. Adresy, Jména, Telefonní čísla, Školu kde se nachází či jen město)
 # 2. Eventy
 
 2.1. Hráč který pořádá event je povinen definovat pravidla eventu.
@@ -114,7 +116,7 @@
 
 # 7. Revize
 
-Pravidla upravena dne 17.2.2019 v 12:32 Majitelem Yusarii!
+Pravidla upravena dne 24.2.2019 v 16:36 Majitelem Yusarii!
 Kdykoliv si vyhrazujeme práva na úpravu pravidel.
 Neznalost pravidel vás neomlouvá!
 Hraním na našich serverech souhlasíte s pravidly a GDPR -> http://warfaremc.eu/gdpr
