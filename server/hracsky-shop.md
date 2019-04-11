@@ -14,7 +14,7 @@ Pokud jste vlastníkem obchodu, můžete kliknout pravým tlačítkem myši na c
 Po kliknutí levým tlačítkem na ceduli vám do chatu budou vypsány informace o prodávaném itemu a zároveň budete vyzváni k uvedení počtu itemů, které chcete koupit nebo prodat v tomto shopu, což provedete opět napsáním čísla do chatu.
 ![Informace](/uploads/shop/informace.png "Informace")
 
-#Příkazy
+# Příkazy
 * **/qs create** Vytvoří obchod
 * **/qs buy** Změní obchod na nákup itemu
 * **/qs sell** Změní obchod na prodej itemu
