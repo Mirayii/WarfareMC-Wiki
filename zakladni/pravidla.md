@@ -24,7 +24,7 @@
 1.19. Hráč si za svoje věci, stavby, virtuální předměty (VIP, Money) zodpovídá sám a server nemá povinnost mu věci vynahradit!
 1.20. Je zakázáno stavět jakékoliv troll stavby v okolí 50ti bloků od residence cizího hráče
 1.21. Je zakázáno blokovat residencí pohyb okolo cizí residence.
-1.22. **To, co není napsáno pravidlech neznamená, že je to povolené.**
+1.22. **Nenapsaná pravidla platí tak, jako napsaná a mají být samozřejmostí. Pokud tě člen AT informuje, že porušuješ pravidla, nemusí být zde poznamenané.**
 1.23. **Je zakázán Tripple click a výš (Jitter click a Double Click je povolen)**
 1.24. **Je zakázáno vlastnit nagivované itemy, nabugované itemy, barriery, bedrock a jiné nedosažitelné věci.**
 1.25. Je zakázáno mít nepovolené módy (http://wiki.warfaremc.eu/zakladni/mody)
