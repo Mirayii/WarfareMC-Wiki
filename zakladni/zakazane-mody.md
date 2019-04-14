@@ -5,7 +5,7 @@
 * Schematica / Schematica Printer
 * Všechny Hacked Clienty
 * AutoEat (V BetterPvP)
-* VoxelMap Radar
+* VoxelMap - **POUZE RADAR**
 * X-Ray (I Resource Packy)
 * AutoClicker
 * Double Click (Ghost Mod)
@@ -34,3 +34,4 @@
 * InventoryTweaks
 * MouseDelayFix
 * 1.7 Combat Animations
+* VoxelMap **BEZ RADARU**
