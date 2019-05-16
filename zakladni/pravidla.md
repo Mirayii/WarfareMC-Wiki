@@ -46,6 +46,7 @@
 1.41. **JE ZAKÁZÁNO OBCHÁZET STANOVENÉ PRAVIDLA PROJEKTU**
 1.42. **__JE ZAKÁZÁNO ROZŠIROVAT OSOBNÍ ÚDAJE O ADMINTEAMU A HRÁČÍCH__** (Např. Adresy, Jména, Telefonní čísla, Školu kde se nachází či jen město)
 1.43. Je zakázáno AFKovat u farem se spawnery / spawnem mobů či používat Macro pro obohacení se.
+1.44. Je zakázáno tvořit masivní farmy, které by mohly lagovat server či lagovat někomu aktivně hru.
 # 2. Eventy
 
 2.1. Hráč který pořádá event je povinen definovat pravidla eventu.
