@@ -45,7 +45,7 @@
 1.40. **JE ZAKÁZÁNO KOPÍROVAT OBSAH NAŠEHO HERNÍHO SERVERU, WEBU, TEAMSPEAKU, DISCORDU**
 1.41. **JE ZAKÁZÁNO OBCHÁZET STANOVENÉ PRAVIDLA PROJEKTU**
 1.42. **__JE ZAKÁZÁNO ROZŠIROVAT OSOBNÍ ÚDAJE O ADMINTEAMU A HRÁČÍCH__** (Např. Adresy, Jména, Telefonní čísla, Školu kde se nachází či jen město)
-1.43. Je zakázáno AFKovat u farem či používat Macro pro obohacení se.
+1.43. Je zakázáno AFKovat u farem se spawnery či používat Macro pro obohacení se.
 # 2. Eventy
 
 2.1. Hráč který pořádá event je povinen definovat pravidla eventu.
@@ -117,7 +117,7 @@
 
 # 7. Revize
 
-Pravidla upravena dne 24.2.2019 v 16:36 Majitelem Yusarii!
+Pravidla upravena dne 16.5.2019 v 17:12 Majitelem Yusarii!
 Kdykoliv si vyhrazujeme práva na úpravu pravidel.
 Neznalost pravidel vás neomlouvá!
 Hraním na našich serverech souhlasíte s pravidly a GDPR -> http://warfaremc.eu/gdpr
