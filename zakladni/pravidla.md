@@ -48,6 +48,8 @@
 1.43. Je zakázáno AFKovat u farem se spawnery / spawnem mobů či používat Macro pro obohacení se.
 1.44. Je zakázáno tvořit masivní farmy, které by mohly lagovat server či lagovat někomu aktivně hru.
 1.45. Je zakázáno napsat 3x v kratším intervalu cenzurované slova.
+1.46. Hráči, kteří budou opakovaně používat toxické výrazy, budou opakovaně nadávat nebo nebudou respektovat AT budou podle prohřešku potrestáni. Pokud se toto bude opakovat, může dojít k *Blacklistu*
+1.47. Pokud si myslíte, že vám server nebo AT nějak omezuje svobodu, tak neomezuje. Server a prakticky všechno okolo něho je vlastnictvím Majitele, ramenhair (Václav Hrubeš) a Refox (Richard Brázdil) a je na nich, jaké postupy budou vybrány pro zakročení, ať už se jedná o překročení pravidel či odstraňování některých zpráv o kterých si myslíme, že jsou nevhodné. Př. Reakce na oznámení na Discordu v podobě "kys" "trash" a podobně. 
 # 2. Eventy
 
 2.1. Hráč který pořádá event je povinen definovat pravidla eventu.
@@ -117,7 +119,10 @@
 * Shulker
 
 
-# 7. Revize
+# 7. *Poznámky*
+* Blacklist -> Blacklist znamená, že vám bude zamezen přístup na všechny části projektu WarfareMC.eu bez možnosti unbanu. Majitel serveru může tento trest dát kdykoliv, i když se hráč neprohřešil. Vše má své důvody.
+
+# 8. Revize
 
 Pravidla upravena dne 16.5.2019 v 17:12 Majitelem Yusarii!
 Kdykoliv si vyhrazujeme práva na úpravu pravidel.
