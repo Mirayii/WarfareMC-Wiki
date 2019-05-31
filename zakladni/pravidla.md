@@ -122,6 +122,16 @@
 # 7. *Poznámky*
 * Blacklist -> Blacklist znamená, že vám bude zamezen přístup na všechny části projektu WarfareMC.eu bez možnosti unbanu. Majitel serveru může tento trest dát kdykoliv, i když se hráč neprohřešil. Vše má své důvody.
 
+# 9. Stručné pravidla
+Pokud jsi zabanován, všechno, co jsi na server přispěl nebo máš nahrané ti nebude nijak vráceno. Čas neumíme vracet.
+Blacklist můžeš dostat i bez udání důvodu.
+AdminTeam nemá povinost dodávat důkazy, pokud si je jist, že se opravdu jednalo o přestupek.
+V případě, že budeš vyzván na Screenshare, jsi povinen odpovědět, zda chceš podstoupit SS nebo ne. V případě možnost ne budeš zabanován stejně jako za cheating (30 dní).
+Žádosti o unban se píšou na fóra, né na profily.
+Reklama je zakázána.
+Je zakázáno být toxický, nadávat, nerespektovat AT.
+Raidování serveru či jiné věci, které server mají poškodit jsou zakázané.
+
 # 8. Revize
 
 Pravidla upravena dne 16.5.2019 v 17:12 Majitelem Yusarii!
