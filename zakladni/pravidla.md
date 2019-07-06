@@ -49,7 +49,10 @@
 1.44. Je zakázáno tvořit masivní farmy, které by mohly lagovat server či lagovat někomu aktivně hru.
 1.45. Je zakázáno napsat 3x v kratším intervalu cenzurované slova.
 1.46. Hráči, kteří budou opakovaně používat toxické výrazy, budou opakovaně nadávat nebo nebudou respektovat AT budou podle prohřešku potrestáni. Pokud se toto bude opakovat, může dojít k *Blacklistu*
-1.47. Pokud si myslíte, že vám server nebo AT nějak omezuje svobodu, tak neomezuje. Server a prakticky všechno okolo něho je vlastnictvím Majitelů, ramenhair (Václav Hrubeš) a Refox (Richard Brázdil) a je na nich, jaké postupy budou vybrány pro zakročení, ať už se jedná o překročení pravidel či odstraňování některých zpráv o kterých si myslíme, že jsou nevhodné. Př. Reakce na oznámení na Discordu v podobě "kys" "trash" a podobně. 
+1.47. Pokud si myslíte, že vám server nebo AT nějak omezuje svobodu, tak neomezuje. Server a prakticky všechno okolo něho je vlastnictvím Majitelů, sad_mirai (Václav Hrubeš) a Refox (Richard Brázdil) a je na nich, jaké postupy budou vybrány pro zakročení, ať už se jedná o překročení pravidel či odstraňování některých zpráv o kterých si myslíme, že jsou nevhodné. Př. Reakce na oznámení na Discordu v podobě "kys" "trash" a podobně. 
+1.48. Nicky obsahující formáty (&l, &k, &o, &n, &m) bude automaticky měněno na základní.
+1.49. Při nahlašování je vyžadováno doložit důkaz, který není propadlý (14 dní).
+1.50. Neručíme za vaší hloupost
 # 2. Eventy
 
 2.1. Hráč který pořádá event je povinen definovat pravidla eventu.
@@ -134,7 +137,7 @@ Raidování serveru či jiné věci, které server mají poškodit jsou zakázan
 
 # 8. Revize
 
-Pravidla upravena dne 16.5.2019 v 17:12 Majitelem Yusarii!
+Pravidla upravena dne 6.7.2019 v 18:25 Majitelem sad_mirai!
 Kdykoliv si vyhrazujeme práva na úpravu pravidel.
 Neznalost pravidel vás neomlouvá!
 Hraním na našich serverech souhlasíte s pravidly a GDPR -> http://warfaremc.eu/gdpr
