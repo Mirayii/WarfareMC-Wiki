@@ -53,6 +53,9 @@
 1.48. Nicky obsahující formáty (&l, &k, &o, &n, &m) bude automaticky měněno na základní.
 1.49. Při nahlašování je vyžadováno doložit důkaz, který není propadlý (14 dní).
 1.50. Neručíme za vaší hloupost
+
+## 1.1. Minigames
+1.1.1. Je zakázán Teaming na KitPvP
 # 2. Eventy
 
 2.1. Hráč který pořádá event je povinen definovat pravidla eventu.
