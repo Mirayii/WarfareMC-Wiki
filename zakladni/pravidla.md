@@ -1,6 +1,16 @@
 <!-- TITLE: Pravidla Projektu -->
 <!-- SUBTITLE: Pravidla našeho projektu -->
 
+
+# 0. Stručné pravidla
+Pokud jsi zabanován, všechno, co jsi na server přispěl nebo máš nahrané ti nebude nijak vráceno. Čas neumíme vracet.
+Blacklist můžeš dostat i bez udání důvodu.
+AdminTeam nemá povinost dodávat důkazy, pokud si je jist, že se opravdu jednalo o přestupek.
+V případě, že budeš vyzván na Screenshare, jsi povinen odpovědět, zda chceš podstoupit SS nebo ne. V případě možnost ne budeš zabanován stejně jako za cheating (30 dní).
+Žádosti o unban se píšou na fóra, né na profily.
+Reklama je zakázána.
+Je zakázáno být toxický, nadávat, nerespektovat AT.
+Raidování serveru či jiné věci, které server mají poškodit jsou zakázané.
 # 1. Obecná pravidla
 
 1.1. Jakýkoliv hráč, co se registruje na webu nebo na našem serveru souhlasí se všemi uvedenými pravidly a GDPR (Ochrana osobních údajů).
@@ -52,14 +62,14 @@
 1.47. Pokud si myslíte, že vám server nebo AT nějak omezuje svobodu, tak neomezuje. Server a prakticky všechno okolo něho je vlastnictvím Majitelů, sad_mirai (Václav Hrubeš) a Refox (Richard Brázdil) a je na nich, jaké postupy budou vybrány pro zakročení, ať už se jedná o překročení pravidel či odstraňování některých zpráv o kterých si myslíme, že jsou nevhodné. Př. Reakce na oznámení na Discordu v podobě "kys" "trash" a podobně. 
 1.48. Nicky obsahující formáty (&l, &k, &o, &n, &m) bude automaticky měněno na základní.
 1.49. Při nahlašování je vyžadováno doložit důkaz, který není propadlý (14 dní).
-1.50. Neručíme za vaší hloupost
+1.50. Neneseme zodpovědnost za chyby hráčů.
 
 ## 1.1. Minigames
 1.1.1. Je zakázán Teaming na KitPvP
 # 2. Eventy
 
 2.1. Hráč který pořádá event je povinen definovat pravidla eventu.
-2.2. Hráč nesmí umřít na eventu.
+2.2. Event musí být zabezpečen tak, aby nemohlo dojít k úmrtí hráče.
 2.2. Člen A-Teamu nesmí dávat za výhru eventu větší částku jak 10 tisíc.
 2.3. Člen A-Teamu nesmí dávat za výhru enchantované věci, boss věci, brnění, meče, atp.
 2.4. Člen A-Teamu může dát maximálné množství 30 itemů dohromady. (Např. 15 Dia a 15 Iron)
@@ -105,7 +115,7 @@
 5.5. Je zakázáno si dělat alternativní účty a z nich si posílat Start Pack money (Viz. MultiAccount)
 
 # 6. AdminTeam
-6.1. AdminTeam má zakázáno pomáhat hráčům! (WorldEdit, Giving, atd.)
+6.1. AdminTeam má zakázáno zvýhodňovat hráče, např. asistencí pomocí WorldEditu či givováním.
 6.2. AdminTeam má zakázáno manipulovat s obsahem hráčské residence bez povolení jeho Majitele nebo pokud obsah Residence nebude porušovat pravidla.
 6.3. AdminTeam nesmí napomáhat hráčům při Eventu.
 6.4. Všechny AT Ranky s povolením na /money give atp. mají zakázáno odesílat peníze hráčům na serveru, využívat je v Aukcích, Využívat je v Hráčských Shopech nebo s ním kupovat itemy v shopu a ty pak dávat hráčům. Důvodem je to, že daný Rank má právo na nagivování peněz. Pokud člen AT s tímto rankem chce hrát normálně, informujte Vedení serveru o povolení.
@@ -115,7 +125,7 @@
 6.8. AdminTeam má možnost hráče varovat ústně a né rovnou příkazem /warn, avšak ústně může varovat jen jednou, poté musí následovat Warn přes Trestací Systém.
 6.9. Člen AdminTeamu, který odejde má možnost si zažádat o nejvyšší VIP na našem serveru, pokud jeho působení v AT je větší, jak 30 dní a byl dostatečně aktivní.
 
-## Sub Pravidla
+# 7. Sub Pravidla
 * Zakázané spawnery na Survivalu pomocí příkazu **/spawner**:
 * Witch
 * Iron Golem
@@ -125,22 +135,14 @@
 * Shulker
 
 
-# 7. *Poznámky*
+# 8. *Poznámky*
 * Blacklist -> Blacklist znamená, že vám bude zamezen přístup na všechny části projektu WarfareMC.eu bez možnosti unbanu. Majitel serveru může tento trest dát kdykoliv, i když se hráč neprohřešil. Vše má své důvody.
 
-# 9. Stručné pravidla
-Pokud jsi zabanován, všechno, co jsi na server přispěl nebo máš nahrané ti nebude nijak vráceno. Čas neumíme vracet.
-Blacklist můžeš dostat i bez udání důvodu.
-AdminTeam nemá povinost dodávat důkazy, pokud si je jist, že se opravdu jednalo o přestupek.
-V případě, že budeš vyzván na Screenshare, jsi povinen odpovědět, zda chceš podstoupit SS nebo ne. V případě možnost ne budeš zabanován stejně jako za cheating (30 dní).
-Žádosti o unban se píšou na fóra, né na profily.
-Reklama je zakázána.
-Je zakázáno být toxický, nadávat, nerespektovat AT.
-Raidování serveru či jiné věci, které server mají poškodit jsou zakázané.
 
-# 8. Revize
+# 9. Revize
 
-Pravidla upravena dne 6.7.2019 v 18:25 Majitelem sad_mirai!
+Pravidla upravena dne 23.7.2019 v 17:34 Majitelem sad_mirai!
 Kdykoliv si vyhrazujeme práva na úpravu pravidel.
 Neznalost pravidel vás neomlouvá!
 Hraním na našich serverech souhlasíte s pravidly a GDPR -> http://warfaremc.eu/gdpr
+Následující uživatelé zlepšili pravidla serveru: MtueanhM_CSCWA
