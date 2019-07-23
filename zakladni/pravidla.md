@@ -6,7 +6,7 @@
 Pokud jsi zabanován, všechno, co jsi na server přispěl nebo máš nahrané ti nebude nijak vráceno. Čas neumíme vracet.
 Blacklist můžeš dostat i bez udání důvodu.
 AdminTeam nemá povinost dodávat důkazy, pokud si je jist, že se opravdu jednalo o přestupek.
-V případě, že budeš vyzván na Screenshare, jsi povinen odpovědět, zda chceš podstoupit SS nebo ne. V případě možnost ne budeš zabanován stejně jako za cheating (30 dní).
+V případě, že budeš vyzván na Screenshare, jsi povinen odpovědět, zda chceš podstoupit SS nebo ne. V případě možnosti "ne" budeš zabanován stejně jako za cheating (30 dní).
 Žádosti o unban se píšou na fóra, né na profily.
 Reklama je zakázána.
 Je zakázáno být toxický, nadávat, nerespektovat AT.
